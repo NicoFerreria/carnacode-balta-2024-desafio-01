@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.input-text {
+    border-radius: 5px;
+}
+
+.container {
+    width: 700px;    
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center; 
+    align-items: center; 
+    padding: 5px;
+}
+
+
+
+.btn-padrao {
+    height: 51px;
+    border-radius: 50px;
+    width: 100%;
+    background-color: #45FEFE;
+    align-self: center;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    margin-top: 10px;
+}
+
+.btn-secundario {
+    height: 51px;
+    border-radius: 50px;    
+    border: solid 4px #45FEFE ;
+    width: 100%;
+    background-color: #fff;
+    align-self: center;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;    
+    margin-top: 10px;
+}

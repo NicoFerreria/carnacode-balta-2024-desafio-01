@@ -1,0 +1,55 @@
+
+.logo {
+    border: solid 4px #45FEFE;
+    border-radius: 40px;
+    width: 95px;
+    height: 95px;
+    padding: 10px; 
+}
+
+.input-text{
+    border-radius: 50px;
+}
+
+.img-history{
+    background-color: #F6F6F6;
+    border: none;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.card-history{
+    height: 100px;
+}
+
+.card-history > div{
+    width: 100%;
+}
+
+.item-time{
+    height: 70px;
+}
+
+.list-history{
+    list-style: none;
+    list-style-type: none;
+    max-width: 600px;
+}
+
+.list-history li{
+    padding: 10px;
+    margin: 0px;
+}
+
+.history-data{
+    font-size: 14px;
+}
+
+.history-data.hoje{
+    color: #522020;
+}
+
+.history-data.ontem{
+    color: #BDBDBD;
+}
